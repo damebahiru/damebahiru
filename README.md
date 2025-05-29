@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dame Bahiru Muleta
 
-🚀 **Software Developer | DevOps Engineer | Systems Architect**  
+🚀 **Software Developer | DevOps Engineer | Network Architect**  
 🔧 Focused on building scalable, production-ready solutions
 
 ---

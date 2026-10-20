@@ -1,6 +1,6 @@
 # Hi, I'm Dame Bahiru Muleta
 
-**Software Developer | DevOps Engineer | Network Architect**  
+**Software Developer | DevOps Engineer | Frappe ERPNext Technical Expert**  
 Focused on building scalable, production-ready solutions
 
 ---
